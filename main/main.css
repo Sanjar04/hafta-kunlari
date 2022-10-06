@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.title{
+    text-align: center;
+    margin-top: 50px;
+    color: rebeccapurple;
+    font-size: 40px;
+}
+
+.copy{
+    text-align: center;
+    color: rgb(221, 150, 19);
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.form{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.input{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: dashed rebeccapurple;
+}
+
+.btn{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: aqua;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color: blue;
+    color: #ffffff
+}
+
+.title-text{
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(0, 255, 106);
+}
